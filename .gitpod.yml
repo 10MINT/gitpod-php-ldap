@@ -1,0 +1,4 @@
+tasks:
+  - init: 
+# Uncomment the following line to log out of github when the workspace starts
+#    command: rm /home/gitpod/.gitconfig && git fetch
