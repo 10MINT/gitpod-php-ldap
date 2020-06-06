@@ -1,4 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
 tasks:
-  - init: 
+  - init: echo "Starting workspace"
 # Uncomment the following line to log out of github when the workspace starts
 #    command: rm /home/gitpod/.gitconfig && git fetch
